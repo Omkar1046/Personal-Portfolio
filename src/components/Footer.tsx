@@ -49,28 +49,28 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/about"
+                  href="/About"
                   className="text-gray-400 hover:text-blue-400 transition-colors">
                   About
                 </a>
               </li>
               <li>
                 <a
-                  href="/projects"
+                  href="/Projects"
                   className="text-gray-400 hover:text-blue-400 transition-colors">
                   Projects
                 </a>
               </li>
               <li>
                 <a
-                  href="/skills"
+                  href="/Skills"
                   className="text-gray-400 hover:text-blue-400 transition-colors">
                   Skills
                 </a>
               </li>
               <li>
                 <a
-                  href="/contact"
+                  href="/Contact"
                   className="text-gray-400 hover:text-blue-400 transition-colors">
                   Contact
                 </a>
