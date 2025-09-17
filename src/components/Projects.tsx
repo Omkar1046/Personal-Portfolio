@@ -39,7 +39,7 @@ const Projects = () => {
       image: "https://cdn.pixabay.com/photo/2024/12/03/08/08/ai-generated-9241538_1280.jpg",
       technologies: ["React", "Tailwind CSS"],
       githubUrl: "https://github.com/Omkar1046/",
-      liveUrl: "https://omkar1046.github.io/Personal-Portfolio",
+      liveUrl: "https://personal-portfolio-am4iyla2s-omkar-kumbhars-projects-56a1d5ae.vercel.app/",
       features: ["Responsive Design", "Smooth Scrolling", "Project Showcases"],
       category: "Frontend",
     },
